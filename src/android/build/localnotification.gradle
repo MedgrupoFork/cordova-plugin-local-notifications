@@ -1,3 +1,4 @@
+package de.appplant.cordova.plugin.localnotification.build
 /*
  * This file contains Original Code and/or Modifications of Original Code
  * as defined in and that are subject to the Apache License
@@ -28,5 +29,5 @@ if (!project.ext.has('appShortcutBadgerVersion')) {
 }
 
 dependencies {
-    compile "me.leolin:ShortcutBadger:${appShortcutBadgerVersion}@aar"
+    implementation 'com.github.MedgrupoFork:ShortcutBadger:v1.0.0'
 }
