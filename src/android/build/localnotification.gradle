@@ -25,5 +25,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.MedgrupoFork:ShortcutBadger:v1.0.0'
+    implementation 'com.github.MedgrupoFork:ShortcutBadger:1.0.0'
 }
