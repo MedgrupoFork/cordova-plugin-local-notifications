@@ -17,8 +17,6 @@ package de.appplant.cordova.plugin.localnotification.build
  */
 
 repositories {
-    mavenCentral()
-    jcenter()
     maven { url "https://jitpack.io" }
 }
 
