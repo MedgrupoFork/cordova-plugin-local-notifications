@@ -50,7 +50,7 @@
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
-    <dependency id="cordova-plugin-badge" url="https://github.com/MedgrupoFork/cordova-plugin-badge"/>
+    <dependency id="cordova-plugin-badge" url="https://github.com/MedgrupoFork/cordova-plugin-badge" commit="1ea900fb1b4768396ae37f32cc1aeaaf24c2d729"/>
 
     <!-- js -->
     <js-module src="www/local-notification.js" name="LocalNotification">
